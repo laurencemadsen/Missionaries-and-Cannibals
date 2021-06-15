@@ -1,8 +1,3 @@
-// Joshua Meranda
-// Laurence Madsen
-// Nathan Kruger
-// Missionaries and Cannibals for CSI 380
-// This program solves the classic Missionaries and Cannibals problem
 
 package main
 
